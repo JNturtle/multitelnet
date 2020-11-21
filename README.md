@@ -1,0 +1,2 @@
+# multitelnet
+使用telnetlib跟multiprocessing去達到同時大量telnet到不同裝置並下指令
